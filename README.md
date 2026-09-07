@@ -169,4 +169,3 @@ DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer xcodebuild \
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).  
-Developed with ❤️ by **[Juan](https://github.com/Jayflux)**.
